@@ -63,3 +63,6 @@ The printed STL file looks like this:
 (Printed on a Lulzbot TAZ6 3d printer with 'clear PLA resin.')
 
 Alternatively, you can just grab the contoured STL file and print it using your 3D printer software.  You don't need to run OpenSCAD unless you want to modify the code to get different shapes.
+
+If you print your own, then I hope you enjoy your coaster!  It might look a lot nicer on a more recent printer.
+
