@@ -10,6 +10,11 @@ After awhile I got pretty close with this code, more or less.  Purrrrty.
 Just grab this and plunk it into Openscad and hit the render button.  May take a minute to render.
 Then export it as an STL file and print it.  There is also a flat cut version in the repo.
 
+How did I know to do this?  I used to build analog laser imaging systems for fun + mixed sine+cosine waveforms together in many ways.
+I also had a digital software model that I used to do the same... I could create digital waveform files then send the vectors through a six-channel D/A card to control galvonometer scanners and produce projected images from argon lasers and such.
+
+==> this, years later; a relaxing evening project!
+
 <pre>
 $fn=100; 
 
@@ -56,3 +61,5 @@ drawCoaster();
 The printed STL file looks like this:
 ![Trig Star image](https://github.com/tpfaff100/Trigonmetric-Coaster-Openscad-Code/blob/main/trigstar.jpg?raw=true)
 (Printed on a Lulzbot TAZ6 3d printer with 'clear PLA resin.')
+
+Alternatively, you can just grab the contoured STL file and print it using your 3D printer software.  You don't need to run OpenSCAD unless you want to modify the code to get different shapes.
