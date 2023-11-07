@@ -52,3 +52,6 @@ module rounded_cylinder(r,h,n) {
 
 drawCoaster();
 </pre>
+
+The printed version looks like this:
+![Trig Star image](https://github.com/tpfaff100/Trigonmetric-Coaster-Openscad-Code/trigstar.jpg?raw=true)
