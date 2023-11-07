@@ -10,6 +10,7 @@ After awhile I got pretty close with this code, more or less.  Purrrrty.
 Just grab this and plunk it into Openscad and hit the render button.  May take a minute to render.
 Then export it as an STL file and print it.  There is also a flat cut version in the repo.
 
+<pre>
 $fn=100; 
 
 
@@ -50,3 +51,4 @@ module rounded_cylinder(r,h,n) {
 }
 
 drawCoaster();
+</pre>
